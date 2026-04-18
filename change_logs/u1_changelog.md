@@ -1,6 +1,6 @@
 ### Eaglercraft 1.12.2 u1 (official release)
 - Released publicly 
-- JS and WASM builds available
+- JS and WASM builds available yes
 - Compatible with current EaglerXBungee and EaglerXVelocity builds
 
 ### Changes since u0
