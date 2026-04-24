@@ -5,4 +5,4 @@ sites : Replit (u3) https://replit.com/join/cbaxflcyue-endemanset
         Netlify (u3) https://eaglercraft112unoffical.netlify.app/
         Google Firebase (u3) https://jill-brick-12345-ca23f.web.app/
         Github (updates on sync) https://endemansetnew.github.io/eaglercraft-1.12.2-just-tobesafe/
-        Github (Firebase Workflow) https://endemansetalsotookthis.dpdns.org/workflows/
+        Github (Firebase Workflow u3) https://endemansetalsotookthis.dpdns.org/workflows/
